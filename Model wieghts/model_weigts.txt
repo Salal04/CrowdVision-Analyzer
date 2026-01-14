@@ -1,0 +1,2 @@
+can download custom model weigts from 
+weigts = "https://drive.google.com/drive/folders/1N8Q9EhTFMjnVO68lox0nhavy1P2UP0Z-?usp=sharing"
