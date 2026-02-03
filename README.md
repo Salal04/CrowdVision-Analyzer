@@ -24,6 +24,10 @@ It operates in real-time, assigns unique IDs to each person, and continuously mo
 
 ---
 
+## Screenshot / Output Example
+
+![Crowd Vision Detection Demo](vid(output) (1).gif)
+
 ## How To Use
 
 ### 1. Clone the repository
@@ -80,9 +84,5 @@ python main.py
 * **Object Tracking (DeepSORT)**
 
 ---
-
-## Screenshot / Output Example
-
-*(Optional: Add example images or GIFs of detection with bounding boxes and statistics overlay here)*
 
 
