@@ -26,7 +26,8 @@ It operates in real-time, assigns unique IDs to each person, and continuously mo
 
 ## Screenshot / Output Example
 
-![Crowd Vision Detection Demo](vid(output) (1).gif)
+![Crowd Vision Detection Demo](assets/vid(output)%20(1).gif)
+
 
 ## How To Use
 
